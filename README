@@ -1,0 +1,13 @@
+Contenido de las carpetas:
+  code: código python implementación de algoritmo genético simple, para
+  problemas de permutación y multiobjetivo. Ejemplos de como conectar un
+  entorno con el algoritmo genético.
+  docs: presentaciones pdf con los conceptos básicos de algoritmos meta-
+  heurísticos y algoritmo genético.
+  notebooks: cuadernos de jupyter con ejemplos de aplicación del algoritmo
+  genético al problema del agente viajero y la ruta más corta de las capítales
+  de los estados de México.
+  papers: artículos con técnicas para inducción de diversidad en las poblaciones
+  y para el planteamiento de los conceptos básicos de técnicas de manejo de 
+  problemas de diseño multi-objetivo, así como del algoritmo NSGA-II
+  

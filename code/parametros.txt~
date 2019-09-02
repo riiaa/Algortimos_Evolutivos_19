@@ -1,0 +1,12 @@
+parametros={
+    "n.individuals":100, 
+    "selection.type":"tournament.selection", 
+    "tournament.size":2, 
+    "crossover.type":"single", 
+    "p.crossover":0.8, 
+    "p.mutation":1/100, 
+    "n.generations":100, 
+    "type":"simple", 
+    "elitism":False}
+    
+    
